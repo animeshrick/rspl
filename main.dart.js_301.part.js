@@ -67,22 +67,22 @@ aO4(d){var x="Return Landing"
 new A.cM().es(x)
 new A.dJ().ef(x,x)
 $.G.R8$.push(new B.bfi(this,d))},
-wx(d){return this.biC(d)},
+ww(d){return this.biC(d)},
 biC(d){var x=0,w=A.j(y.H),v=this,u,t
-var $async$wx=A.e(function(e,f){if(e===1)return A.f(f,w)
+var $async$ww=A.e(function(e,f){if(e===1)return A.f(f,w)
 while(true)switch(x){case 0:v.fp()
 v.b.saW(0,d)
 x=2
-return A.b(v.vW(),$async$wx)
+return A.b(v.vV(),$async$ww)
 case 2:x=3
-return A.b(v.DE(),$async$wx)
+return A.b(v.DE(),$async$ww)
 case 3:u=$.cE()
 x=4
-return A.b(new A.cy(u).DJ(),$async$wx)
+return A.b(new A.cy(u).DJ(),$async$ww)
 case 4:x=5
-return A.b(new A.cy(u).DK(),$async$wx)
+return A.b(new A.cy(u).DK(),$async$ww)
 case 5:x=6
-return A.b(v.a.Kd(),$async$wx)
+return A.b(v.a.Kd(),$async$ww)
 case 6:u=v.y.b
 u=u==null?null:J.c(u,"IsReversPickAvl")
 if(J.q(u,1)){u=v.y.b
@@ -97,7 +97,7 @@ u===$&&A.d()
 u=$.G.F$.z.h(0,u.c.b)
 u.toString
 E.yP(u,"/returningProducts",null,C.L,t,y.X)}return A.h(null,w)}})
-return A.i($async$wx,w)},
+return A.i($async$ww,w)},
 PW(d){var x
 this.f=d
 if(d==="product"||d==="invoice"){this.b.fc(0,C.b8)
@@ -106,33 +106,33 @@ x===$&&A.d()
 x=$.G.F$.z.h(0,x.c.b)
 x.toString
 A.c_(x,"/customer_sales_return",null,C.L,C.V)}this.m()},
-vW(){var x=0,w=A.j(y.Q),v,u=this,t,s,r,q,p,o,n,m
-var $async$vW=A.e(function(d,e){if(d===1)return A.f(e,w)
+vV(){var x=0,w=A.j(y.Q),v,u=this,t,s,r,q,p,o,n,m
+var $async$vV=A.e(function(d,e){if(d===1)return A.f(e,w)
 while(true)switch(x){case 0:x=3
-return A.b(new A.ba().aY("SalesReturnMsg_NotAvailable"),$async$vW)
+return A.b(new A.ba().aY("SalesReturnMsg_NotAvailable"),$async$vV)
 case 3:s=e
 x=4
-return A.b(new A.ba().aY("SalesReturnBank_approval_pending_msg"),$async$vW)
+return A.b(new A.ba().aY("SalesReturnBank_approval_pending_msg"),$async$vV)
 case 4:r=e
 q=y.z
 o=A
 n="bulkbuyer_front"
 m=A
 x=6
-return A.b(new A.S().aC(),$async$vW)
+return A.b(new A.S().aC(),$async$vV)
 case 6:x=5
-return A.b(o.b7(n,m.D(["UserId",e],q,q),"checkSalesReturnEligibility","Salesreturn_itemwise"),$async$vW)
+return A.b(o.b7(n,m.D(["UserId",e],q,q),"checkSalesReturnEligibility","Salesreturn_itemwise"),$async$vV)
 case 5:p=e
 u.y=new A.r(C.l,null,null,y.K)
 u.m()
 t=y.P
 x=7
-return A.b(A.aJ(u.x.YM(C.n.aa(p)).O(new B.bfg(u,s,r),t),new B.bfh(u),t,y.C),$async$vW)
+return A.b(A.aJ(u.x.YN(C.n.aa(p)).O(new B.bfg(u,s,r),t),new B.bfh(u),t,y.C),$async$vV)
 case 7:v=A.y(y.N,q)
 x=1
 break
 case 1:return A.h(v,w)}})
-return A.i($async$vW,w)},
+return A.i($async$vV,w)},
 DE(){var x=0,w=A.j(y.A),v,u=this,t,s,r,q,p
 var $async$DE=A.e(function(d,e){if(d===1)return A.f(e,w)
 while(true)switch(x){case 0:t=y.z
@@ -251,7 +251,7 @@ if(u.e!=null)A.c_(u,"/login",null,C.L,C.V)
 x=3
 break
 case 4:x=6
-return A.b(v.a.wx(v.b),$async$$1)
+return A.b(v.a.ww(v.b),$async$$1)
 case 6:case 3:return A.h(null,w)}})
 return A.i($async$$1,w)},
 $S:8}
@@ -437,4 +437,4 @@ A.bb(b.typeUniverse,JSON.parse('{"n5":{"ak":[],"ac":[]}}'))
 var y=(function rtii(){var x=A.B
 return{A:x("aL"),h:x("r<aL>"),y:x("r<I<b0>>"),K:x("r<av<o,@>>"),R:x("x<aL>"),w:x("x<iD>"),u:x("x<iX>"),B:x("x<i_>"),V:x("x<b0>"),l:x("aX<ia>"),Y:x("I<b0>"),P:x("a1"),C:x("K"),T:x("b0"),N:x("o"),z:x("@"),D:x("aL?"),Q:x("av<o,@>?"),X:x("K?"),H:x("~")}})()};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_301",e:"endPart",h:b})})($__dart_deferred_initializers__,"owhQpDamOh41kwsU9uXkDO5V0VY=");
+a.eventLog.push({p:"main.dart.js_301",e:"endPart",h:b})})($__dart_deferred_initializers__,"oxlssN706QIAg6mFASu8OXCTEHY=");

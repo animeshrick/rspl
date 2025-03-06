@@ -41,7 +41,7 @@ B.bMG.prototype={
 $0(){},
 $S:0}
 B.bMF.prototype={
-$0(){new A.c5().jS("/myaccount")},
+$0(){new A.c8().jS("/myaccount")},
 $S:4};(function inheritance(){var x=a.inherit,w=a.inheritMany
 x(B.A3,A.V)
 x(B.aw0,A.Y)
@@ -54,4 +54,4 @@ D.a3k=new A.az(5,0,5,10)
 D.a3l=new A.az(5,50,5,10)
 D.a3o=new A.az(8,0,8,15)})()};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_335",e:"endPart",h:b})})($__dart_deferred_initializers__,"jKZ1HYyh2WqjexiNdXM54x77LDU=");
+a.eventLog.push({p:"main.dart.js_335",e:"endPart",h:b})})($__dart_deferred_initializers__,"/b6NnRf7JoPwwJXSdrFuzDjVnVo=");

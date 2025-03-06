@@ -97,7 +97,7 @@ l=s.a
 k="fetchGenericProducts"
 j=A
 x=8
-return A.b(new A.fk().a5y(),$async$E6)
+return A.b(new A.fk().a5z(),$async$E6)
 case 8:x=7
 return A.b(l.h1(k,j.k(f)+d),$async$E6)
 case 7:r=f
@@ -141,4 +141,4 @@ x(A.K,[B.D9,B.aR_,B.aaI])
 x(A.bm,[B.aR0,B.aR1])})()
 var y={i:A.B("a5<@>"),z:A.B("x<b0>"),q:A.B("I<b0>"),w:A.B("o"),b:A.B("@"),d:A.B("D9?"),x:A.B("I<b0>?")}};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_267",e:"endPart",h:b})})($__dart_deferred_initializers__,"c1tAeAy6NK6TtlsF2FGde91O31o=");
+a.eventLog.push({p:"main.dart.js_267",e:"endPart",h:b})})($__dart_deferred_initializers__,"rFfIx4Ij6ZTmIJsqfWGRIRXS1OY=");

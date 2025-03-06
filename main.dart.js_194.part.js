@@ -64,7 +64,7 @@ $S:0}
 B.bJN.prototype={
 $0(){var x=0,w=A.j(y.l),v
 var $async$$0=A.e(function(d,e){if(d===1)return A.f(e,w)
-while(true)switch(x){case 0:new A.c5().jS("/myorders")
+while(true)switch(x){case 0:new A.c8().jS("/myorders")
 v=!1
 x=1
 break
@@ -85,4 +85,4 @@ w(A.bs,[B.bJO,B.bJN,B.bJM])})()
 A.bb(b.typeUniverse,JSON.parse('{"zw":{"V":[],"m":[]},"aua":{"Y":["zw"]}}'))
 var y={h:A.B("x<o>"),e:A.B("x<m>"),g:A.B("o"),l:A.B("Q"),f:A.B("~")};(function constants(){D.a31=new A.az(15,10,15,10)})()};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_194",e:"endPart",h:b})})($__dart_deferred_initializers__,"jjXbsDsNjuMZpc60MAQ8JcUT/Yo=");
+a.eventLog.push({p:"main.dart.js_194",e:"endPart",h:b})})($__dart_deferred_initializers__,"UKfFr5XsEf6PDic4XVj9sERSTD0=");

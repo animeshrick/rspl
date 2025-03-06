@@ -140,13 +140,13 @@ w=A.ct(6)
 v=A.aE(A.aj("Couldn\u2019t find it? Submit request based on the product name you entered!",A.A("#003280"),s,s,s,s).R(C.o,18,12),1)
 u=A.A("#4D93CA")
 t=y.p
-x=A.a([A.c6(s,A.bg(s,s,w,s,s,A.Z(A.a([v,new A.t(8,s,s,s),A.bg(s,s,s,s,s,A.aD(A.aj("Request",C.j,s,s,s,C.a1).R(C.o,18,12),s,s),u,s,22,s,s,73)],t),C.f,C.h,C.d),x,s,53,C.T,C.hZ,s),C.z,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new B.bdT(e,d),s,s,s,s,s,s)],t)
+x=A.a([A.c5(s,A.bg(s,s,w,s,s,A.Z(A.a([v,new A.t(8,s,s,s),A.bg(s,s,s,s,s,A.aD(A.aj("Request",C.j,s,s,s,C.a1).R(C.o,18,12),s,s),u,s,22,s,s,73)],t),C.f,C.h,C.d),x,s,53,C.T,C.hZ,s),C.z,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new B.bdT(e,d),s,s,s,s,s,s)],t)
 w=e.y.b
 if((w==null?s:J.aS(w))===!0)C.b.v(x,A.a([new A.t(s,16,s,s),A.Z(A.a([D.y_,new A.t(10,s,s,s),A.H("OR",C.x,14,s,s,!1,s,s,s),new A.t(10,s,s,s),D.y_],t),C.f,C.h,C.d),new A.t(s,16,s,s),new A.a4(C.T,A.aj("Similar Results",A.A("#475467"),s,s,s,s).R(C.o,20,14),s),new A.t(s,16,s,s)],t))
 w=e.y.b
 w=w==null?s:J.am(w)
 if(w==null)w=0
-x.push(A.U(A.kI(w,new B.bdU(e,d),y.l),C.f,s,C.h,C.d,s))
+x.push(A.U(A.kJ(w,new B.bdU(e,d),y.l),C.f,s,C.h,C.d,s))
 if(e.f)x.push(new A.hf(40,s))
 x=A.aE(A.f6(A.U(x,C.w,s,C.h,C.d,s),e.w,C.z,C.bX,s,C.U,!1,C.y),1)}else x=A.ag(s,s,C.m,s,s,s,s,s,s,s,s,s,s,s)
 return A.U(A.a([E.aa,r,new A.t(s,15,s,s),x,E.aa],y.p),C.f,s,C.h,C.d,s)},
@@ -154,7 +154,7 @@ $C:"$3",
 $R:3,
 $S:z+1}
 B.bdR.prototype={
-$0(){new A.c5().dN(0)},
+$0(){new A.c8().dN(0)},
 $S:0}
 B.bdS.prototype={
 $1(d){return this.ayu(d)},
@@ -180,7 +180,7 @@ w=x.db
 w=A.aD(new A.fj(w==null?"":w,0,62,t),t,t)
 v=x.e
 u=y.p
-return A.c6(t,new A.a4(C.bq,A.U(A.a([new A.d4(0.5,0.7,t,t,s,t),A.Z(A.a([w,new A.t(8,t,t,t),A.aE(A.aj(v==null?"":v,t,t,2,C.ar,t).R(C.o,20,14),1)],u),C.f,C.h,C.d)],u),C.f,t,C.h,C.d,t),t),C.z,!1,t,t,t,t,t,t,t,t,t,t,t,t,t,t,t,new B.bdQ(x,this.b),t,t,t,t,t,t)},
+return A.c5(t,new A.a4(C.bq,A.U(A.a([new A.d4(0.5,0.7,t,t,s,t),A.Z(A.a([w,new A.t(8,t,t,t),A.aE(A.aj(v==null?"":v,t,t,2,C.ar,t).R(C.o,20,14),1)],u),C.f,C.h,C.d)],u),C.f,t,C.h,C.d,t),t),C.z,!1,t,t,t,t,t,t,t,t,t,t,t,t,t,t,t,new B.bdQ(x,this.b),t,t,t,t,t,t)},
 $S:1115}
 B.bdQ.prototype={
 $0(){var x=this.a,w=y.z,v=A.D(["productId",x.a,"productName",x.e],w,w)
@@ -228,4 +228,4 @@ return{y:x("r<I<b0>>"),R:x("x<aL>"),w:x("x<iD>"),u:x("x<iX>"),A:x("x<i_>"),V:x("
 D.a5q=new A.cY(62717,"CupertinoIcons","cupertino_icons",!1)
 D.a5D=new A.d6(D.a5q,20,C.k,null,null)})()};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_241",e:"endPart",h:b})})($__dart_deferred_initializers__,"gppAaqEsxvO+lYwXy2OVoKcmehI=");
+a.eventLog.push({p:"main.dart.js_241",e:"endPart",h:b})})($__dart_deferred_initializers__,"lc5+wuKx3kYnYh0hBxwrTGVylGo=");
