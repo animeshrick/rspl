@@ -48,7 +48,7 @@ s.push(A.U(A.a([r,new A.t(1/0,100,A.dt(w,new C.bv7(e),J.am(x),B.K,w,B.U,w,B.a0,n
 s.push(D.aa)
 s.push(B.dG)
 A.C()
-s.push(G.bV3("Valid Image Guide",B.k,16,B.R))
+s.push(G.bV3("Valid Image Guide",B.k,16,B.Q))
 s.push(D.aa)
 A.C()
 s.push(A.H("* Only upload .jpg/ .jpeg/ .png",B.k,16,w,w,!1,w,w,w))
@@ -66,14 +66,14 @@ s.push(B.dG)
 r=e.b
 if(r.length===0)r=new A.t(w,w,w,w)
 else{x=A.as(d,w,y.h).w
-x=A.ag(w,I.hM(A.kJ(r.length,new C.bv9(e,d),y.m),w,B.K,w,B.U,w,B.a0,!1),B.m,w,w,w,w,x.a.b*0.3,w,w,B.bl,w,w,w)
+x=A.ag(w,I.hM(A.kK(r.length,new C.bv9(e,d),y.m),w,B.K,w,B.U,w,B.a0,!1),B.m,w,w,w,w,x.a.b*0.3,w,w,B.bl,w,w,w)
 r=x}s.push(r)
 r=e.ax.b
-if(r!=null)s.push(J.cO(r)?new A.t(w,w,w,w):A.Z(A.a([B.bI,A.bL(!1,w,!0,G.bV3("lbl_view_comments",B.a_,18,B.R),w,!0,w,w,w,w,w,w,w,w,w,w,new C.bva(),w,w,w,w,w,w,w)],t),B.f,B.h,B.d))
+if(r!=null)s.push(J.cO(r)?new A.t(w,w,w,w):A.Z(A.a([B.bI,A.bL(!1,w,!0,G.bV3("lbl_view_comments",B.a_,18,B.Q),w,!0,w,w,w,w,w,w,w,w,w,w,new C.bva(),w,w,w,w,w,w,w)],t),B.f,B.h,B.d))
 s.push(D.aa)
 s.push(A.dg(w,w,e.w,w,w,!1,!1,!1,w,!0,w,!1,!1,w,"lbl_write_comment",w,w,w,w,w,new C.bvb()))
 s=A.f6(new A.a4(B.aT,A.U(s,B.w,w,B.h,B.d,w),w),w,B.z,B.K,w,w,!1,B.y)
-return A.bM(v,B.j,A.dr(B.az,A.a([s,e.y.a===B.l?A.aD(L.Q2(60,60,"img_uploading_msg"),w,w):A.ag(w,w,B.m,w,w,w,w,w,w,w,w,w,w,w)],t),B.W,B.ag,w),new A.t(1/0,50,u,w),w,w,w,w,w)},
+return A.bM(v,B.j,A.dq(B.az,A.a([s,e.y.a===B.l?A.aD(L.Q2(60,60,"img_uploading_msg"),w,w):A.ag(w,w,B.m,w,w,w,w,w,w,w,w,w,w,w)],t),B.W,B.ag,w),new A.t(1/0,50,u,w),w,w,w,w,w)},
 $C:"$3",
 $R:3,
 $S:z+1}
@@ -90,14 +90,14 @@ C.bv7.prototype={
 $2(d,e){var x,w=null,v=this.a,u=v.as.b
 u.toString
 x=J.c(u,e).as
-if(new E.m_(A.a([".png",".jpg",".jpeg",".pdf",".doc"],y.k)).ask(x))v=A.oO("assets/images/ic_pdf.png",w,w,w,w,w,w)
+if(new E.m0(A.a([".png",".jpg",".jpeg",".pdf",".doc"],y.k)).ask(x))v=A.oO("assets/images/ic_pdf.png",w,w,w,w,w,w)
 else{u=v.a
 v=v.as.b
 v.toString
 v=new A.fj(u+"/"+A.k(J.c(v,e).as),100,100,w)}return v},
 $S:53}
 C.bv9.prototype={
-$1(d){var x,w,v=null,u=this.a,t=u.b[d],s=A.a([".png",".jpg",".jpeg",".pdf",".doc"],y.k),r=t.a,q=new E.m_(s).ask(r)
+$1(d){var x,w,v=null,u=this.a,t=u.b[d],s=A.a([".png",".jpg",".jpeg",".pdf",".doc"],y.k),r=t.a,q=new E.m0(s).ask(r)
 s=A.ct(5)
 if(q){r=this.b
 x=y.h
@@ -110,7 +110,7 @@ x=this.b
 w=y.h
 w=K.aUa(r,A.as(x,v,w).w.a.b*0.3,A.as(x,v,w).w.a.a*0.4)
 r=w}w=y.h
-return A.ag(v,A.dr(Q.fv,A.a([A.oA(s,r,B.bk),A.fU(v,A.bL(!1,v,!0,A.dY(B.jL,B.k,v,(A.as(x,v,w).w.a.b+A.as(x,v,w).w.a.a)*0.025),v,!0,v,v,v,v,v,v,v,v,v,v,new C.bv5(u,d),v,v,v,v,v,v,v),v,v,v,-10,v,v)],y.e),B.m,B.ag,v),B.m,v,v,v,v,v,v,B.bl,v,v,v,v)},
+return A.ag(v,A.dq(Q.fv,A.a([A.oA(s,r,B.bk),A.fU(v,A.bL(!1,v,!0,A.dY(B.jL,B.k,v,(A.as(x,v,w).w.a.b+A.as(x,v,w).w.a.a)*0.025),v,!0,v,v,v,v,v,v,v,v,v,v,new C.bv5(u,d),v,v,v,v,v,v,v),v,v,v,-10,v,v)],y.e),B.m,B.ag,v),B.m,v,v,v,v,v,v,B.bl,v,v,v,v)},
 $S:158}
 C.bv5.prototype={
 $0(){var x=this.a
@@ -134,4 +134,4 @@ w(A.c4,[C.bv8,C.bv7])})()
 A.bb(b.typeUniverse,JSON.parse('{"G1":{"N":[],"m":[]}}'))
 var y={k:A.B("x<o>"),e:A.B("x<m>"),h:A.B("d3"),l:A.B("og"),m:A.B("m")};(function constants(){H.Rw=new A.uq("assets/images/ic_pdf.png",null,null)})()};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_336",e:"endPart",h:b})})($__dart_deferred_initializers__,"ZtYj2OfNR339O6xk2CUn44sIhOU=");
+a.eventLog.push({p:"main.dart.js_336",e:"endPart",h:b})})($__dart_deferred_initializers__,"lq2bB6qWRynaLNez7FnrvXEuBEI=");

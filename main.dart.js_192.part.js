@@ -217,35 +217,35 @@ C.akk.prototype={
 A(d){var w,v,u,t,s,r,q=null,p="#667085"
 A.C()
 w=A.aj("Order Summary",q,q,q,q,q).R(B.a4,20,14)
-v=A.A($.kz)
+v=A.A($.kA)
 A.C()
 u=A.H("Total no of products",A.A(p),14,q,q,!1,q,q,q)
 t=this.c
 s=t.c.b
 s.toString
 r=x.p
-s=A.a([new A.a4(B.T,w,q),new A.t(q,8,q,q),new A.d4(1,1.2,q,q,v,q),new A.t(q,12,q,q),new A.a4(B.T,A.Z(A.a([u,A.H(C.cGj(s),B.k,14,q,q,!1,q,q,q)],r),B.f,B.E,B.d),q),new A.t(q,4,q,q),new A.d4(1,1.2,q,q,A.A($.kz),q),new A.t(q,4,q,q)],r)
+s=A.a([new A.a4(B.T,w,q),new A.t(q,8,q,q),new A.d4(1,1.2,q,q,v,q),new A.t(q,12,q,q),new A.a4(B.T,A.Z(A.a([u,A.H(C.cGj(s),B.k,14,q,q,!1,q,q,q)],r),B.f,B.E,B.d),q),new A.t(q,4,q,q),new A.d4(1,1.2,q,q,A.A($.kA),q),new A.t(q,4,q,q)],r)
 w=t.c.b
 w.toString
 if(C.c2G(w)!==""){A.C()
 w=A.H("Medicine Reference No.",A.A(p),14,q,q,!1,q,q,q)
 v=t.c.b
 v.toString
-B.b.v(s,A.a([new A.a4(B.T,A.Z(A.a([w,A.H(C.c2G(v),B.k,14,q,q,!1,q,q,q)],r),B.f,B.E,B.d),q),new A.t(q,4,q,q),new A.d4(1,1.2,q,q,A.A($.kz),q),new A.t(q,4,q,q)],r))}w=t.c.b
+B.b.v(s,A.a([new A.a4(B.T,A.Z(A.a([w,A.H(C.c2G(v),B.k,14,q,q,!1,q,q,q)],r),B.f,B.E,B.d),q),new A.t(q,4,q,q),new A.d4(1,1.2,q,q,A.A($.kA),q),new A.t(q,4,q,q)],r))}w=t.c.b
 w.toString
 if(C.c2H(w)!==""){A.C()
 w=A.H("OTC Reference No.",A.A(p),14,q,q,!1,q,q,q)
 v=t.c.b
 v.toString
-B.b.v(s,A.a([new A.a4(B.T,A.Z(A.a([w,A.H(C.c2H(v),B.k,14,q,q,!1,q,q,q)],r),B.w,B.E,B.d),q),new A.t(q,4,q,q),new A.d4(1,1.2,q,q,A.A($.kz),q),new A.t(q,4,q,q)],r))}w=this.d
+B.b.v(s,A.a([new A.a4(B.T,A.Z(A.a([w,A.H(C.c2H(v),B.k,14,q,q,!1,q,q,q)],r),B.w,B.E,B.d),q),new A.t(q,4,q,q),new A.d4(1,1.2,q,q,A.A($.kA),q),new A.t(q,4,q,q)],r))}w=this.d
 if(new A.l().q(w)){A.C()
-B.b.v(s,A.a([new A.a4(B.T,A.Z(A.a([new A.jF(2,B.cI,A.H("Payment Ref. No.",A.A(p),14,q,q,!1,q,q,q),q),new A.t(10,q,q,q),new A.jF(1,B.cI,new A.eS(B.hF,q,q,A.H(w,B.k,14,q,q,!1,q,q,q),q),q)],r),B.f,B.E,B.d),q),new A.t(q,4,q,q),new A.d4(1,1.2,q,q,A.A($.kz),q),new A.t(q,4,q,q)],r))}A.C()
+B.b.v(s,A.a([new A.a4(B.T,A.Z(A.a([new A.jG(2,B.cI,A.H("Payment Ref. No.",A.A(p),14,q,q,!1,q,q,q),q),new A.t(10,q,q,q),new A.jG(1,B.cI,new A.eS(B.hF,q,q,A.H(w,B.k,14,q,q,!1,q,q,q),q),q)],r),B.f,B.E,B.d),q),new A.t(q,4,q,q),new A.d4(1,1.2,q,q,A.A($.kA),q),new A.t(q,4,q,q)],r))}A.C()
 w=A.H("Payment Mode",A.A(p),14,q,q,!1,q,q,q)
 t=t.c.b
 t.toString
 s.push(new A.a4(B.T,A.Z(A.a([w,new A.t(10,q,q,q),A.aE(new A.eS(B.hF,q,q,A.H(A.k(J.c(t,0).w),B.k,14,q,q,!1,q,q,q),q),1)],r),B.f,B.E,B.d),q))
 s.push(new A.t(q,4,q,q))
-s.push(new A.d4(1,1.2,q,q,A.A($.kz),q))
+s.push(new A.d4(1,1.2,q,q,A.A($.kA),q))
 s.push(new A.t(q,4,q,q))
 return A.U(s,B.w,q,B.h,B.d,q)}}
 C.FP.prototype={
@@ -356,7 +356,7 @@ u=this.a
 t=u.e
 t=t==null?r:t.f
 s=x.p
-t=A.a([new A.t(r,16,r,r),D.Wq,A.uU(B.al,A.a([v,A.iR(B.j,new A.l().Z0(t),r).R(B.R,20,14)],x.n))],s)
+t=A.a([new A.t(r,16,r,r),D.Wq,A.uU(B.al,A.a([v,A.iR(B.j,new A.l().Z0(t),r).R(B.Q,20,14)],x.n))],s)
 v=e.c.b
 v.toString
 if(new A.l().q(J.c(v,0).Q)){v=e.c.b
@@ -418,7 +418,7 @@ w(C.az5,A.ak)})()
 A.bb(b.typeUniverse,JSON.parse('{"AB":{"V":[],"m":[]},"az4":{"Y":["AB"]},"akk":{"N":[],"m":[]},"FP":{"ak":[],"ac":[]}}'))
 var y={d:"https://nw-stg-api.retailershakti.com/index_v2/get"}
 var x=(function rtii(){var w=A.B
-return{i:w("r<I<aL>>"),J:w("r<I<hh>?>"),L:w("bO"),R:w("x<aL>"),V:w("x<b0>"),j:w("x<hh>"),s:w("x<o>"),n:w("x<na>"),p:w("x<m>"),b:w("I<aL>"),D:w("I<hh>"),f:w("av<@,@>"),w:w("d3"),P:w("a1"),K:w("K"),N:w("o"),I:w("oa"),S:w("FP"),g:w("Gp"),y:w("Q"),z:w("@"),A:w("I<hh>?"),H:w("~")}})();(function constants(){D.a7b=new E.JC(null,null,null,null,null,null,null)
+return{i:w("r<I<aL>>"),J:w("r<I<hh>?>"),L:w("bO"),R:w("x<aL>"),V:w("x<b0>"),j:w("x<hh>"),s:w("x<o>"),n:w("x<nb>"),p:w("x<m>"),b:w("I<aL>"),D:w("I<hh>"),f:w("av<@,@>"),w:w("d3"),P:w("a1"),K:w("K"),N:w("o"),I:w("oa"),S:w("FP"),g:w("Gp"),y:w("Q"),z:w("@"),A:w("I<hh>?"),H:w("~")}})();(function constants(){D.a7b=new E.JC(null,null,null,null,null,null,null)
 D.Wp=new A.dw(B.J,null,null,D.a7b,null)
 D.a17=new A.fu("assets/logo/order_placed_box.svg",70,70,null,null,null)
 D.Wq=new A.dw(B.J,null,null,D.a17,null)
@@ -426,4 +426,4 @@ D.a1n=new A.fu("assets/logo/delivery.svg",50,50,null,null,null)
 D.a36=new A.az(16,0,16,16)
 D.a3c=new A.az(16,8,16,12)})()};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_192",e:"endPart",h:b})})($__dart_deferred_initializers__,"CayEtv4zQ+JnWvaeIeeEVwLiac4=");
+a.eventLog.push({p:"main.dart.js_192",e:"endPart",h:b})})($__dart_deferred_initializers__,"2uuZ3NuMtBXqu5eIIudQ+stuGn8=");

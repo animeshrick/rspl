@@ -4,7 +4,7 @@ a[b][c].push({p:"main.dart.js_296",e:"beginPart"})})(self,"$__dart_deferred_init
 $__dart_deferred_initializers__.current=function(a,b,c,$){var J,A,C,B={p5:function p5(){var _=this
 _.dx=_.db=_.cy=_.cx=_.CW=_.ch=_.as=_.x=_.w=_.e=_.d=_.c=_.b=_.a=""},
 c_S(){var w=x.t
-return new B.JN(new B.jJ(),A.a([],x.m),A.a([],x.K),A.a([],w),A.a([],w))},
+return new B.JN(new B.jK(),A.a([],x.m),A.a([],x.K),A.a([],w),A.a([],w))},
 p7:function p7(d,e,f,g,h,i){var _=this
 _.z=_.y=_.x=_.w=_.r=_.f=_.e=_.c=_.b=_.a=null
 _.ay=_.ax=_.as=_.Q=0
@@ -18,7 +18,7 @@ _.fy=g
 _.go=h
 _.id=i
 _.k1=""},
-jJ:function jJ(){this.b=this.a=null},
+jK:function jK(){this.b=this.a=null},
 JN:function JN(d,e,f,g,h){var _=this
 _.a=d
 _.b=e
@@ -37,7 +37,7 @@ C=c[2]
 B=a.updateHolder(c[139],B)
 B.p5.prototype={}
 B.p7.prototype={}
-B.jJ.prototype={}
+B.jK.prototype={}
 B.JN.prototype={}
 B.Wj.prototype={
 A2(d){return this.blX(d)},
@@ -88,11 +88,11 @@ a8=A.a([],x.K)
 a9=J.O(a5)
 b0=a9.gbg(a5)
 if(b0)for(b0=J.b1(a6),s=a7.b;b0.E();){r=b0.gS(b0)
-q=new B.jJ()
+q=new B.jK()
 p=J.O(r)
 q.b=J.n(p.h(r,"val"))
 q.a=J.n(p.h(r,"id"))
-s.push(q)}o=new B.jJ()
+s.push(q)}o=new B.jK()
 A.C()
 o.b="Select reason for all"
 o.a="-1"
@@ -110,7 +110,7 @@ case 6:s=x.t,p=x.m,m=x.p,l=x.s,k=0
 case 8:if(!(k<b0.gu(n))){w=10
 break}j=A.a([],s)
 i=A.a([],p)
-q=new B.p7(new B.jJ(),j,i,A.a([],p),A.a([],m),A.a([],l))
+q=new B.p7(new B.jK(),j,i,A.a([],p),A.a([],m),A.a([],l))
 q.a=J.c(b0.h(n,k),"DisplayName")
 q.b=J.n(J.c(b0.h(n,k),"InvoiceId"))
 q.c=J.n(J.c(b0.h(n,k),"InvoiceItemId"))
@@ -143,11 +143,11 @@ case 13:b1.k1=b4
 case 12:e=J.c(b0.h(n,k),"ReturnReasonList")
 if(e==null)e=A.a([],p)
 for(j=J.b1(e);j.E();){d=j.gS(j)
-a0=new B.jJ()
+a0=new B.jK()
 g=J.O(d)
 a0.b=g.h(d,"val")
 a0.a=J.n(g.h(d,"id"))
-i.push(a0)}a1=new B.jJ()
+i.push(a0)}a1=new B.jK()
 A.C()
 a1.b="Select a reason"
 a1.a="-2"
@@ -158,15 +158,15 @@ C.b.hM(a2,new B.bfs())}q.fr=a2
 q.dy=C.b.gW(a2)
 q.dx=C.b.gW(q.fx)}else{q.fr=A.a([],s)
 q.dy=h
-q.dx=new B.jJ()}a8.push(q)
+q.dx=new B.jK()}a8.push(q)
 case 9:++k
 w=8
 break
 case 10:case 7:if(a9.aF(a5,"Other")){a4=a9.h(a5,"Other")
 b0=J.O(a4)
 if(b0.gbg(a4))a7.d=J.n(J.c(b0.h(a4,0),"IsEligibleForFullSalesReturn"))}b0=x.S
-a7.f=J.lK(a9.h(a5,"Restriction_List_sr_reason_normal"),b0)
-b0=J.lK(a9.h(a5,"SR_reason_id_for_image"),b0)
+a7.f=J.lL(a9.h(a5,"Restriction_List_sr_reason_normal"),b0)
+b0=J.lL(a9.h(a5,"SR_reason_id_for_image"),b0)
 a7.e=b0==null?A.a([],x.t):b0
 a7.c=a8
 case 5:u=a7
@@ -260,7 +260,7 @@ w=7
 return A.b(r.a.aU("customer_Sales_Return_Percent",y.h,d),$async$Uq)
 case 7:q=f
 if(new A.bo().bI(q)==="2000"){d=J.c(J.c(q,"ResponseData"),"data")
-o=A.dq()
+o=A.dp()
 if(d!=null){n=J.O(d)
 o.e=n.h(d,"resMsg")
 m=J.q(n.h(d,"isMsgShow"),"Y")
@@ -281,7 +281,7 @@ w=6
 break
 case 3:w=2
 break
-case 6:u=A.dq()
+case 6:u=A.dp()
 w=1
 break
 case 1:return A.h(u,v)
@@ -294,7 +294,7 @@ w=t}while(true)switch(w){case 0:t=4
 w=7
 return A.b(r.a.aU("salesreturn_itemwise_request",y.h,d),$async$Py)
 case 7:q=f
-if(new A.bo().bI(q)==="2000"){p=A.dq()
+if(new A.bo().bI(q)==="2000"){p=A.dp()
 p.b=J.c(J.c(J.c(J.c(q,"ResponseData"),"data"),0),"RetStatus")
 p.a=J.c(J.c(J.c(J.c(q,"ResponseData"),"data"),0),"msg")
 u=p
@@ -311,7 +311,7 @@ w=6
 break
 case 3:w=2
 break
-case 6:u=A.dq()
+case 6:u=A.dp()
 w=1
 break
 case 1:return A.h(u,v)
@@ -363,7 +363,7 @@ o=A.J(h)
 n=A.aR(h)
 A.v(A.w(!0,!0))
 J.n(o)
-A.np(n,null,null,"stackTrance_searchReturnProduct")
+A.jx(n,null,null,"stackTrance_searchReturnProduct")
 w=6
 break
 case 3:w=2
@@ -651,11 +651,11 @@ w=$.G.F$.z.h(0,w.c.b)
 w.toString
 A.br(w,!1).e8()},
 $S:4};(function inheritance(){var w=a.inheritMany,v=a.inherit
-w(A.K,[B.p5,B.p7,B.jJ,B.JN,B.Wj,B.F4])
+w(A.K,[B.p5,B.p7,B.jK,B.JN,B.Wj,B.F4])
 v(B.bfs,A.c4)
 w(A.bs,[B.bfw,B.bfx])})()
 var y={h:"https://nw-stg-api.retailershakti.com/index_v2/get",d:"https://nw-stg-api.retailershakti.com/index_v2/post"}
 var x=(function rtii(){var w=A.B
-return{_:w("a5<@>"),R:w("x<aL>"),p:w("x<ka>"),V:w("x<b0>"),B:w("x<p5>"),m:w("x<jJ>"),K:w("x<p7>"),s:w("x<o>"),t:w("x<z>"),b:w("I<aL>"),Y:w("I<b0>"),h:w("I<p5>"),E:w("JN"),P:w("av<o,@>"),N:w("o"),z:w("@"),S:w("z"),A:w("aL?"),Q:w("av<o,@>?")}})()};
+return{_:w("a5<@>"),R:w("x<aL>"),p:w("x<kb>"),V:w("x<b0>"),B:w("x<p5>"),m:w("x<jK>"),K:w("x<p7>"),s:w("x<o>"),t:w("x<z>"),b:w("I<aL>"),Y:w("I<b0>"),h:w("I<p5>"),E:w("JN"),P:w("av<o,@>"),N:w("o"),z:w("@"),S:w("z"),A:w("aL?"),Q:w("av<o,@>?")}})()};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_296",e:"endPart",h:b})})($__dart_deferred_initializers__,"VZeGOZ9d/xRWXRUHm5ZIbGgwlFU=");
+a.eventLog.push({p:"main.dart.js_296",e:"endPart",h:b})})($__dart_deferred_initializers__,"4NdjaiyN97JSw8egS66gjKGUvm8=");

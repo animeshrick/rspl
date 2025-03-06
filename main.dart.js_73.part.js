@@ -110,7 +110,7 @@ v=q.gu(r)
 u=J.bz(v,y.S)
 for(t=0;t<v;++t)u[t]=t
 C.b.v(w,u)
-q=J.k5(s.w,new B.b4t())
+q=J.k6(s.w,new B.b4t())
 s.e=A.au(q,!0,q.$ti.i("T.E"))
 A.v(A.w(!0,!0))}else{C.b.ab(w)
 C.b.ab(s.e)}}s.m()},
@@ -124,7 +124,7 @@ w.m()},
 a0B(d){var x,w=this,v="productList"
 w.y=d
 x=d.b
-if(x!=null)x=J.kw(x,v)===!0
+if(x!=null)x=J.kx(x,v)===!0
 else x=!1
 if(x){x=w.y.b
 x=x==null?null:J.c(x,v)
@@ -145,11 +145,11 @@ return A.i($async$Ea,w)},
 xY(d,e){var x,w,v,u,t,s,r=this,q="productList"
 r.z=d
 x=d.b
-if(x!=null)x=J.kw(x,q)===!0
+if(x!=null)x=J.kx(x,q)===!0
 else x=!1
 if(x){x=r.z.b
 w=x==null?null:J.c(x,q)
-v=J.k5(w,new B.b4u(e))
+v=J.k6(w,new B.b4u(e))
 u=J.cl3(r.w,new B.b4v(e))
 if(u===-1){x=$.af().a.c
 x===$&&A.d()
@@ -204,14 +204,14 @@ $1(d){return B.cs3()},
 $S:z+0}
 B.bJY.prototype={
 $3(d,e,f){var x,w,v,u,t=null
-if(e.y.a!==C.l){x=A.l6(A.A("#1A74BB"),1)
+if(e.y.a!==C.l){x=A.l7(A.A("#1A74BB"),1)
 w=y.p
 x=A.c5(t,A.ag(t,A.Z(A.a([new A.t(14,t,t,t),F.xf,new A.t(6,t,t,t),A.H("Search Product/Brand in the sheet",A.A("#999999"),12,t,t,!1,t,t,t)],w),C.f,C.h,C.d),C.m,t,t,new A.bj(C.j,t,x,L.aY,t,t,t,C.G),t,40,t,H.f0,F.xO,t,t,t),C.z,!1,t,t,t,t,t,t,t,t,t,t,t,t,t,t,t,new B.bJT(d,e),t,t,t,t,t,t)
 v=A.a([A.aq(102,113,233,233),A.aq(102,231,195,243)],y.O)
 v=A.a([new A.a4(D.lN,x,t),A.bg(t,t,K.vo,t,t,A.Z(A.a([A.aE(A.uU(C.a1,A.a([A.iR(A.A("#004C99"),"Use this ",t).R(C.C,18,12),A.iR(A.A("#EF323A"),"Order Sheet",t).R(C.a4,18,12),A.iR(A.A("#004C99")," to simplify your restocking process in one step",t).R(C.C,18,12)],y.n)),1)],w),C.f,C.h,C.d),t,new I.z9(C.dA,C.e_,C.cg,v,t,t),66,D.lN,D.a30,t),new A.t(t,10,t,t)],w)
 if(J.aS(e.w))C.b.v(v,A.a([new A.a4(D.lN,A.Z(A.a([A.Z(A.a([A.nv(A.A("#33994E"),new B.bJU(e),e.c),new A.t(8,t,t,t),A.aj("Select all "+J.am(e.w)+" product(s)",D.Xt,t,t,t,t).R(C.C,18,12)],w),C.f,C.h,C.d)],w),C.f,C.E,C.d),t),new A.t(t,4,t,t)],w))
 if(J.aS(e.w)){x=A.dt(t,new B.bJV(e),J.am(e.w),C.K,t,t,t,C.y,new B.bJW(),!1)
-x=A.dr(C.hD,A.a([x,e.z.a===C.l?A.Tg():A.ag(t,t,C.m,t,t,t,t,t,t,t,t,t,t,t)],w),C.W,C.ag,t)}else x=C.xW
+x=A.dq(C.hD,A.a([x,e.z.a===C.l?A.Tg():A.ag(t,t,C.m,t,t,t,t,t,t,t,t,t,t,t)],w),C.W,C.ag,t)}else x=C.xW
 v.push(A.aE(x,1))
 x=e.x?t:new B.bJX(e)
 w=A.as(d,t,y.w).w
@@ -301,8 +301,8 @@ w(A.c4,[B.bJW,B.bJV,B.b4q,B.b4s])
 x(B.t7,A.ak)})()
 A.bb(b.typeUniverse,JSON.parse('{"Uq":{"V":[],"m":[]},"aud":{"Y":["Uq"]},"t7":{"ak":[],"ac":[]}}'))
 var y=(function rtii(){var x=A.B
-return{d:x("r<av<o,@>?>"),O:x("x<P>"),V:x("x<b0>"),n:x("x<na>"),p:x("x<m>"),t:x("x<z>"),w:x("d3"),P:x("a1"),K:x("K"),Z:x("t7"),N:x("o"),S:x("z"),X:x("K?"),T:x("o?"),u:x("Q?"),H:x("~")}})();(function constants(){D.Xt=new A.P(4279923899)
+return{d:x("r<av<o,@>?>"),O:x("x<P>"),V:x("x<b0>"),n:x("x<nb>"),p:x("x<m>"),t:x("x<z>"),w:x("d3"),P:x("a1"),K:x("K"),Z:x("t7"),N:x("o"),S:x("z"),X:x("K?"),T:x("o?"),u:x("Q?"),H:x("~")}})();(function constants(){D.Xt=new A.P(4279923899)
 D.a30=new A.az(15,0,15,0)
 D.lN=new A.az(16,5,16,5)})()};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_73",e:"endPart",h:b})})($__dart_deferred_initializers__,"mBHrCFDj2cDfngvppuDAKAaaHB8=");
+a.eventLog.push({p:"main.dart.js_73",e:"endPart",h:b})})($__dart_deferred_initializers__,"oyic/h9CBrU/Lfg6NNaCH8YWIdk=");

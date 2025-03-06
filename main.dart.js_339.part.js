@@ -3,12 +3,12 @@ a[b][c]=a[b][c]||[]
 a[b][c].push({p:"main.dart.js_339",e:"beginPart"})})(self,"$__dart_deferred_initializers__","eventLog")
 $__dart_deferred_initializers__.current=function(a,b,c,$){var J,A,C,D,B={
 c7h(){var x="Generic Products",w=$.aw()
-w=new B.m1(new A.bl(C.F,w),new D.aaI(new A.bA(new A.by(A.v(A.w(!0,!0))))),new A.r(C.a2,null,null,y.E),w)
+w=new B.m2(new A.bl(C.F,w),new D.aaI(new A.bA(new A.by(A.v(A.w(!0,!0))))),new A.r(C.a2,null,null,y.E),w)
 $.bx().a8(0,w.gwX())
 new A.cM().es(x)
 new A.dJ().ef(x,x)
 return w},
-m1:function m1(d,e,f,g){var _=this
+m2:function m2(d,e,f,g){var _=this
 _.a=d
 _.b=!1
 _.e=0
@@ -27,7 +27,7 @@ A=c[0]
 C=c[2]
 D=c[111]
 B=a.updateHolder(c[89],B)
-B.m1.prototype={
+B.m2.prototype={
 n(){$.bx().V(0,this.gwX())
 this.dR()},
 NC(){var x=this.x.b
@@ -121,12 +121,12 @@ B.aR3.prototype={
 $2(d,e){this.a.jp(new A.r(C.r,null,J.n(d),y.E))},
 $S:1};(function installTearOffs(){var x=a._instance_0u
 var w
-x(w=B.m1.prototype,"gdm","n",0)
+x(w=B.m2.prototype,"gdm","n",0)
 x(w,"gwX","NC",0)})();(function inheritance(){var x=a.inherit,w=a.inheritMany
-x(B.m1,A.ak)
+x(B.m2,A.ak)
 w(A.bm,[B.aR4,B.aR2])
 x(B.aR3,A.c4)})()
-A.bb(b.typeUniverse,JSON.parse('{"m1":{"ak":[],"ac":[]}}'))
+A.bb(b.typeUniverse,JSON.parse('{"m2":{"ak":[],"ac":[]}}'))
 var y={E:A.B("r<I<b0>>"),i:A.B("a5<@>"),F:A.B("a1"),D:A.B("K"),b:A.B("@"),v:A.B("~")}};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_339",e:"endPart",h:b})})($__dart_deferred_initializers__,"eYNo4m0GcLVeD4YNL1XPe71CEcc=");
+a.eventLog.push({p:"main.dart.js_339",e:"endPart",h:b})})($__dart_deferred_initializers__,"Qc21NlVn5LVW1KqmsjVl88IM3c8=");

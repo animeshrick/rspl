@@ -236,7 +236,7 @@ var $async$jk=A.e(function(d,e){if(d===1)return A.f(e,w)
 while(true)switch(x){case 0:x=2
 return A.b(new D.wh().Ad(!0),$async$jk)
 case 2:u=e
-if(new A.l().q(u))if(!new D.m_(A.a([".png",".jpg",".jpeg",".pdf",".doc"],y.s)).zL(u.a)){A.C()
+if(new A.l().q(u))if(!new D.m0(A.a([".png",".jpg",".jpeg",".pdf",".doc"],y.s)).zL(u.a)){A.C()
 new A.at().k9("Invalid file format")}else if(!C.b.t(v.a,u)){v.a.push(u)
 v.m()}else{A.C()
 new A.at().aA("This File is already selected",C.x)}else{A.C()
@@ -317,10 +317,10 @@ $S:z+1}
 B.bv3.prototype={
 $3(d,e,f){var x,w=null,v=e.a.length>=4,u=A.cU(new L.V0(e.gNa(),e.gNb(),w),!1,!1,!1,C.H,!v)
 if(v){A.C()
-v=new A.a4(C.fQ,A.H("Attached Files",C.x,16,w,C.R,!1,w,w,w),w)}else{A.C()
+v=new A.a4(C.fQ,A.H("Attached Files",C.x,16,w,C.Q,!1,w,w,w),w)}else{A.C()
 v=new A.a4(E.a3t,A.H("* Only upload .png/.jpg/.jpeg files \n* Each file size: upto 5 MB \n* You can upload maximum of 4 images \n*Upload images of the received product which clearly shows its Batch no. and MRP.",C.k,14,w,w,!1,w,w,w),w)}if(e.a.length===0)x=A.aD(A.U(A.a([I.yL,A.H("image_show_txt",C.k,20,w,w,!1,w,w,w)],y.p),C.f,w,C.h,C.d,w),w,w)
 else{x=A.as(d,w,y.w).w
-x=A.ag(w,F.hM(A.kJ(e.a.length,new B.bv0(e,d),y.l),w,C.K,w,C.U,w,C.a0,!1),C.m,w,w,w,w,x.a.b*0.3,w,w,C.bl,w,w,w)}return A.U(A.a([new A.t(w,15,w,w),u,C.dG,v,C.dG,x,C.bI,A.fZ(C.bt,"update_txt",16,50,e.w,new B.bv1(this.a,e),w,w,A.as(d,w,y.w).w.a.a)],y.p),C.w,w,C.h,C.d,w)},
+x=A.ag(w,F.hM(A.kK(e.a.length,new B.bv0(e,d),y.l),w,C.K,w,C.U,w,C.a0,!1),C.m,w,w,w,w,x.a.b*0.3,w,w,C.bl,w,w,w)}return A.U(A.a([new A.t(w,15,w,w),u,C.dG,v,C.dG,x,C.bI,A.fZ(C.bt,"update_txt",16,50,e.w,new B.bv1(this.a,e),w,w,A.as(d,w,y.w).w.a.a)],y.p),C.w,w,C.h,C.d,w)},
 $C:"$3",
 $R:3,
 $S:z+2}
@@ -330,7 +330,7 @@ if(q==null)q=new Uint8Array(0)
 x=this.b
 w=y.w
 v=A.as(x,u,w).w
-return A.ag(u,A.dr(M.fv,A.a([A.oA(r,G.aUa(q,A.as(x,u,w).w.a.b*0.3,v.a.a*0.4),C.bk),A.fU(u,A.bL(!1,u,!0,A.dY(C.jL,C.k,u,(A.as(x,u,w).w.a.b+A.as(x,u,w).w.a.a)*0.025),u,!0,u,u,u,u,u,u,u,u,u,u,new B.bv_(t,d),u,u,u,u,u,u,u),u,u,u,-10,u,u)],y.p),C.m,C.ag,u),C.m,u,u,u,u,u,u,C.bl,u,u,u,u)},
+return A.ag(u,A.dq(M.fv,A.a([A.oA(r,G.aUa(q,A.as(x,u,w).w.a.b*0.3,v.a.a*0.4),C.bk),A.fU(u,A.bL(!1,u,!0,A.dY(C.jL,C.k,u,(A.as(x,u,w).w.a.b+A.as(x,u,w).w.a.a)*0.025),u,!0,u,u,u,u,u,u,u,u,u,u,new B.bv_(t,d),u,u,u,u,u,u,u),u,u,u,-10,u,u)],y.p),C.m,C.ag,u),C.m,u,u,u,u,u,u,C.bl,u,u,u,u)},
 $S:158}
 B.bv_.prototype={
 $0(){var x=this.a
@@ -415,17 +415,17 @@ var w
 x(w=B.tu.prototype,"gNb","jk",0)
 x(w,"gNa","jj",0)})();(function inheritance(){var x=a.mixin,w=a.inheritMany,v=a.inherit
 w(A.K,[B.PV,B.awV])
-v(B.PR,A.dn)
+v(B.PR,A.dm)
 w(A.bm,[B.aGB,B.aGC,B.aGD,B.aGE,B.aGF,B.aGG,B.aGH,B.bv4,B.bv3,B.bv0,B.bf2,B.bf3])
-v(B.aPf,A.jW)
+v(B.aPf,A.jX)
 v(B.G0,A.N)
 w(A.bs,[B.bv2,B.bv_,B.bv1])
 v(B.tu,B.awV)
 v(B.bf4,A.c4)
 x(B.awV,A.ak)})()
-A.bb(b.typeUniverse,JSON.parse('{"PR":{"dn":["PV"],"ak":[],"ac":[]},"G0":{"N":[],"m":[]},"tu":{"ak":[],"ac":[]}}'))
+A.bb(b.typeUniverse,JSON.parse('{"PR":{"dm":["PV"],"ak":[],"ac":[]},"G0":{"N":[],"m":[]},"tu":{"ak":[],"ac":[]}}'))
 var y=(function rtii(){var x=A.B
-return{g:x("r<@>"),W:x("ka"),x:x("a5<~>"),D:x("x<ka>"),s:x("x<o>"),p:x("x<m>"),Y:x("I<pL>"),w:x("d3"),P:x("a1"),K:x("K"),U:x("tu"),N:x("o"),l:x("m"),c:x("bd<jz>"),h:x("bd<~>"),B:x("aC<jz>"),V:x("aC<~>"),z:x("@"),T:x("CW?"),n:x("D5?"),C:x("a2?"),u:x("Q?"),H:x("~")}})();(function constants(){E.a3t=new A.az(8,8,0,8)
+return{g:x("r<@>"),W:x("kb"),x:x("a5<~>"),D:x("x<kb>"),s:x("x<o>"),p:x("x<m>"),Y:x("I<pL>"),w:x("d3"),P:x("a1"),K:x("K"),U:x("tu"),N:x("o"),l:x("m"),c:x("bd<jA>"),h:x("bd<~>"),B:x("aC<jA>"),V:x("aC<~>"),z:x("@"),T:x("CW?"),n:x("D5?"),C:x("a2?"),u:x("Q?"),H:x("~")}})();(function constants(){E.a3t=new A.az(8,8,0,8)
 E.a3Z=new B.aPf(1,"auto")})()};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_311",e:"endPart",h:b})})($__dart_deferred_initializers__,"HxzJx9vMrsnxon5k3mIGnf1Zhvk=");
+a.eventLog.push({p:"main.dart.js_311",e:"endPart",h:b})})($__dart_deferred_initializers__,"p2yglwLseLd4yrtyOnZZVv6+43g=");

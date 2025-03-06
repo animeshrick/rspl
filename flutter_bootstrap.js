@@ -23,7 +23,7 @@ var web_initial_loader = document.getElementById("loading_indicator");
 _flutter.loader.load({
     config: {'renderer': 'html'},
     serviceWorkerSettings: {
-        serviceWorkerVersion: "3075907962",
+        serviceWorkerVersion: "2802206431",
     },
     onEntrypointLoaded: async function (engineInitializer) {
         console.log("onEntrypointLoaded");

@@ -28,7 +28,7 @@ if(new A.l().bT(n.Q))k.push(l)}w=n.b
 v=n.d
 u=A.A("#4D93CA")
 t=y.e
-u=A.ag(q,A.dr(B.J,A.a([A.aD(A.H("Detailed Bill",B.j,16,q,q,!1,q,q,q),q,q),A.fU(q,A.fG(C.a63,q,new D.bXa(d),q),q,q,q,10,q,q)],t),B.W,B.ag,q),B.m,q,q,new A.bj(u,q,q,F.p7,q,q,q,B.G),q,50,q,q,q,q,q,q)
+u=A.ag(q,A.dq(B.J,A.a([A.aD(A.H("Detailed Bill",B.j,16,q,q,!1,q,q,q),q,q),A.fU(q,A.fG(C.a63,q,new D.bXa(d),q),q,q,q,10,q,q)],t),B.W,B.ag,q),B.m,q,q,new A.bj(u,q,q,F.p7,q,q,q,B.G),q,50,q,q,q,q,q,q)
 s=A.H("Total (MRP)",C.fE,14,q,q,!1,q,q,q)
 A.C()
 s=A.a([A.Z(A.a([s,A.H("\u20b9 "+B.e.j(n.a),C.XQ,14,q,q,!1,q,q,q)],t),B.f,B.E,B.d),E.aa],t)
@@ -54,7 +54,7 @@ s.push(A.Z(A.a([v,A.H("\u20b9 "+B.e.j(n.f),C.fE,14,q,q,!1,q,q,q)],t),B.f,B.E,B.d
 s.push(E.aa)
 v=A.H("Amount to be paid",new A.P(o),14,q,B.o,!1,q,q,q)
 A.C()
-s.push(A.Z(A.a([v,A.H("\u20b9 "+A.k(x?n.r:f),new A.P(o),14,q,B.R,!1,q,q,q)],t),B.f,B.E,B.d))
+s.push(A.Z(A.a([v,A.H("\u20b9 "+A.k(x?n.r:f),new A.P(o),14,q,B.Q,!1,q,q,q)],t),B.f,B.E,B.d))
 s.push(E.aa)
 return A.ag(q,A.U(A.a([u,C.awY,new A.a4(H.lK,A.U(s,B.f,q,B.h,B.d,q),q)],t),B.f,q,B.h,B.d,q),B.m,q,q,C.To,q,300,q,q,q,q,q,q)},
 $S:224}
@@ -70,4 +70,4 @@ C.fE=new A.P(4284903557)
 C.a63=new A.d6(B.dI,null,B.j,null,null)
 C.awY=new A.t(null,18,null,null)})()};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_180",e:"endPart",h:b})})($__dart_deferred_initializers__,"m6ngEGuoN9sGOWlC97Ju6Jg+nGo=");
+a.eventLog.push({p:"main.dart.js_180",e:"endPart",h:b})})($__dart_deferred_initializers__,"aM/vD9oEa+cJfqrVsqRsxlx0NLI=");
