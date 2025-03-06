@@ -76,7 +76,7 @@ return A.bL(!1,w,!0,A.ag(w,A.U(A.a([new A.fj(J.n(x.as),64,64,w),new A.t(w,5,w,w)
 $S:77}
 B.bnA.prototype={
 $0(){var x=this.b,w=y.w
-A.c_(this.a,"/category/brand_listing",null,A.D(["name",J.n(x.a),"catId",J.n(x.b)],w,w),C.V)},
+A.bZ(this.a,"/category/brand_listing",null,A.D(["name",J.n(x.a),"catId",J.n(x.b)],w,w),C.V)},
 $S:0}
 B.bnx.prototype={
 $1(d){return this.aAq(d)},
@@ -107,4 +107,4 @@ A.bb(b.typeUniverse,JSON.parse('{"Fw":{"N":[],"m":[]},"wI":{"ak":[],"ac":[]}}'))
 var y=(function rtii(){var x=A.B
 return{B:x("r<I<aL>>"),d:x("x<aL>"),c:x("x<bB>"),u:x("x<m>"),k:x("I<aL>"),F:x("a1"),E:x("K"),i:x("wI"),w:x("o"),v:x("~")}})();(function constants(){D.ax4=new G.tE(3,8,8,1)})()};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_243",e:"endPart",h:b})})($__dart_deferred_initializers__,"hu4+XCXOwszswWLIcBJZFV8Z7+M=");
+a.eventLog.push({p:"main.dart.js_243",e:"endPart",h:b})})($__dart_deferred_initializers__,"GXfr1sK/4rvX6WF0kW4Hr4yaY0E=");

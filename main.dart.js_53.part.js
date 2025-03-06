@@ -32,7 +32,7 @@ $0(){var x=$.af().a.c
 x===$&&A.d()
 x=$.G.F$.z.h(0,x.c.b)
 x.toString
-A.c_(x,"/product/search",null,C.L,C.V)},
+A.bZ(x,"/product/search",null,C.L,C.V)},
 $S:0}
 B.b3M.prototype={
 $1(d){return E.cb6("user-order-list")},
@@ -51,7 +51,7 @@ $0(){var x=$.af().a.c
 x===$&&A.d()
 x=$.G.F$.z.h(0,x.c.b)
 x.toString
-A.c_(x,"/searchOrder",null,C.L,C.V)},
+A.bZ(x,"/searchOrder",null,C.L,C.V)},
 $S:0};(function inheritance(){var x=a.inheritMany,w=a.inherit
 x(A.N,[B.a9Q,B.afl])
 x(A.bs,[B.aNe,B.bK_])
@@ -65,4 +65,4 @@ D.a1o=new A.fu("assets/logo/no_data.svg",null,null,null,null,null)
 D.awy=new A.a2(140,38)
 D.awX=new A.t(null,12,null,null)})()};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_53",e:"endPart",h:b})})($__dart_deferred_initializers__,"GgqEyNrcLPOUICrvbMtJn+NYHxA=");
+a.eventLog.push({p:"main.dart.js_53",e:"endPart",h:b})})($__dart_deferred_initializers__,"N4mVLteau6wY4hjWNxo+rvRKp1k=");

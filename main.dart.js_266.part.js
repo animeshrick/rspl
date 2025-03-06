@@ -122,7 +122,7 @@ v=w.gu(0)
 u=J.bz(v,y.T)
 for(t=0;t<v;++t)u[t]=w.bS(0,t)
 s.r=u}}s.m()},
-a0z(d){var x,w,v=this
+a0y(d){var x,w,v=this
 v.y=d
 x=d.b
 w=x==null?null:x.c
@@ -136,7 +136,7 @@ x.toString
 v.f=x}v.m()},
 lS(){var x=0,w=A.j(y.H),v=this,u
 var $async$lS=A.e(function(d,e){if(d===1)return A.f(e,w)
-while(true)switch(x){case 0:v.a0z(new A.r(C.l,null,null,y.d))
+while(true)switch(x){case 0:v.a0y(new A.r(C.l,null,null,y.d))
 u=y.P
 x=2
 return A.b(A.aJ(v.x.lS().O(new B.aRN(v),u),new B.aRO(v),u,y.K),$async$lS)
@@ -152,7 +152,7 @@ if(u){v=v.fr
 if(v==null)v=""}else{v=v.r
 if(v==null)v=""}u=u?0:1
 w=y.N
-A.c_(this.b,"/generic_products",null,C.L,A.D(["saltId",x,"title",v,"type",""+u],w,w))},
+A.bZ(this.b,"/generic_products",null,C.L,A.D(["saltId",x,"title",v,"type",""+u],w,w))},
 $S:0}
 B.bFD.prototype={
 $1(d){return B.cpJ()},
@@ -200,7 +200,7 @@ x.b="lbl_composition_title"}else{x.c="hint_search_generic_medicine_by_brand"
 x.b="lbl_brands_title"}x.m()},
 $S:0}
 B.aR5.prototype={
-$0(){A.c_(this.b,"/gm_search",null,C.L,A.D(["type",""+this.a.c.a],y.N,y.z))},
+$0(){A.bZ(this.b,"/gm_search",null,C.L,A.D(["type",""+this.a.c.a],y.N,y.z))},
 $S:0}
 B.aRM.prototype={
 $1(d){return this.axh(d)},
@@ -218,10 +218,10 @@ B.aRQ.prototype={
 $1(d){return J.n(d.r)[0]===this.a},
 $S:48}
 B.aRN.prototype={
-$1(d){this.a.a0z(new A.r(C.q,d,null,y.d))},
+$1(d){this.a.a0y(new A.r(C.q,d,null,y.d))},
 $S:z+2}
 B.aRO.prototype={
-$2(d,e){this.a.a0z(new A.r(C.r,null,J.n(d),y.d))},
+$2(d,e){this.a.a0y(new A.r(C.r,null,J.n(d),y.d))},
 $S:1};(function inheritance(){var x=a.inheritMany,w=a.inherit
 x(A.N,[B.Sa,B.a54,B.aaT,B.aaJ])
 x(A.bs,[B.aQZ,B.aDV,B.aRT,B.aR5])
@@ -234,4 +234,4 @@ A.bb(b.typeUniverse,JSON.parse('{"Sa":{"N":[],"m":[]},"yK":{"V":[],"m":[]},"arQ"
 var y=(function rtii(){var x=A.B
 return{d:x("r<D9>"),w:x("vs"),V:x("x<b0>"),p:x("x<m>"),P:x("a1"),K:x("K"),T:x("b0"),N:x("o"),l:x("m"),z:x("@"),H:x("~")}})();(function constants(){D.a14=new A.nu("Generic Medicine",null,null,null)})()};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_266",e:"endPart",h:b})})($__dart_deferred_initializers__,"QFCZdFpnQ6yv3yE8pW7GqbGdxrg=");
+a.eventLog.push({p:"main.dart.js_266",e:"endPart",h:b})})($__dart_deferred_initializers__,"szIBw/EPcW+POzBBBmhrnHSw2+U=");

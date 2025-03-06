@@ -61,13 +61,13 @@ ym(d,e){return this.b04(d,e)},
 b04(d,e){var x=0,w=A.j(y.b)
 var $async$ym=A.e(function(f,g){if(f===1)return A.f(g,w)
 while(true)switch(x){case 0:x=2
-return A.b(d.a7C("DROP TABLE IF EXISTS tblReturnProductImage"),$async$ym)
+return A.b(d.a7B("DROP TABLE IF EXISTS tblReturnProductImage"),$async$ym)
 case 2:x=3
-return A.b(d.a7C("DROP TABLE IF EXISTS tblReturnProductLocalImage"),$async$ym)
+return A.b(d.a7B("DROP TABLE IF EXISTS tblReturnProductLocalImage"),$async$ym)
 case 3:x=4
-return A.b(d.a7C("CREATE TABLE tblReturnProductImage ([Id] INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT, [OrderId]  TEXT NULL, [ItemId]  TEXT  NULL, [FileName]  TEXT  NULL, [LocalFilePaths]  TEXT NOT NULL, [LastUpdated] DATETIME NOT NULL DEFAULT (datetime('now','localtime')), UNIQUE(LocalFilePaths) ON CONFLICT REPLACE);"),$async$ym)
+return A.b(d.a7B("CREATE TABLE tblReturnProductImage ([Id] INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT, [OrderId]  TEXT NULL, [ItemId]  TEXT  NULL, [FileName]  TEXT  NULL, [LocalFilePaths]  TEXT NOT NULL, [LastUpdated] DATETIME NOT NULL DEFAULT (datetime('now','localtime')), UNIQUE(LocalFilePaths) ON CONFLICT REPLACE);"),$async$ym)
 case 4:x=5
-return A.b(d.a7C("CREATE TABLE tblReturnProductLocalImage ([Id] INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT, [OrderId]  TEXT NULL, [ItemId]  TEXT  NULL, [FileName]  TEXT  NULL, [LocalFilePaths]  TEXT NOT NULL, [LastUpdated] DATETIME NOT NULL DEFAULT (datetime('now','localtime')), UNIQUE(LocalFilePaths) ON CONFLICT REPLACE);"),$async$ym)
+return A.b(d.a7B("CREATE TABLE tblReturnProductLocalImage ([Id] INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT, [OrderId]  TEXT NULL, [ItemId]  TEXT  NULL, [FileName]  TEXT  NULL, [LocalFilePaths]  TEXT NOT NULL, [LastUpdated] DATETIME NOT NULL DEFAULT (datetime('now','localtime')), UNIQUE(LocalFilePaths) ON CONFLICT REPLACE);"),$async$ym)
 case 5:return A.h(null,w)}})
 return A.i($async$ym,w)},
 Kd(){var x=0,w=A.j(y.v),v=1,u,t,s,r,q,p,o
@@ -119,4 +119,4 @@ v.ne($.chO())
 return v})
 x($,"cMQ","a4A",()=>new B.ai_())})()};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_302",e:"endPart",h:b})})($__dart_deferred_initializers__,"0wvn0PANVSqrC3Hr1Ubh1/2PlaI=");
+a.eventLog.push({p:"main.dart.js_302",e:"endPart",h:b})})($__dart_deferred_initializers__,"DsacMRNMAN11YihNexr21igICcA=");

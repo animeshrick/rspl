@@ -156,7 +156,7 @@ C.aeF.prototype={
 A(d){var w,v=null
 A.C()
 w=x.p
-return A.U(A.a([A.ag(v,A.Z(A.a([new A.t(50,v,A.aD(A.H("Date",B.j,15,v,v,!1,v,v,v),v,v),v),new A.t(70,v,A.aD(A.H("Total GMV",B.j,15,v,v,!1,v,v,v),v,v),v),new A.t(100,v,A.aD(A.H("Returned Amt",B.j,15,v,v,!1,v,v,v),v,v),v),new A.t(100,v,A.aD(A.H("Returned Pct",B.j,15,v,v,!1,v,v,v),v,v),v)],w),B.f,B.dm,B.d),B.m,v,v,new A.bj(M.fD,v,v,Q.aY,v,v,v,B.G),v,51,v,v,B.bf,v,v,v),A.aE(I.hM(A.kK(this.c.length,new C.b1t(this),x.l),v,B.K,v,v,v,B.y,!0),1)],w),B.f,v,B.h,B.d,v)}}
+return A.U(A.a([A.ag(v,A.Z(A.a([new A.t(50,v,A.aD(A.H("Date",B.j,15,v,v,!1,v,v,v),v,v),v),new A.t(70,v,A.aD(A.H("Total GMV",B.j,15,v,v,!1,v,v,v),v,v),v),new A.t(100,v,A.aD(A.H("Returned Amt",B.j,15,v,v,!1,v,v,v),v,v),v),new A.t(100,v,A.aD(A.H("Returned Pct",B.j,15,v,v,!1,v,v,v),v,v),v)],w),B.f,B.dm,B.d),B.m,v,v,new A.bj(M.fD,v,v,Q.aY,v,v,v,B.G),v,51,v,v,B.bf,v,v,v),A.aE(I.hM(A.kJ(this.c.length,new C.b1t(this),x.l),v,B.K,v,v,v,B.y,!0),1)],w),B.f,v,B.h,B.d,v)}}
 C.Lj.prototype={
 A(d){var w=null,v=x.O
 return A.bM(w,B.hO,A.cb(A.bC(new C.bfO(),v),new C.bfP(),v),w,w,w,w,w,w)}}
@@ -176,18 +176,18 @@ if(new A.l().q(t.e)){A.C()
 B.b.v(u,A.a([A.Z(A.a([A.H("Returnable Amount : \u20b9",B.k,16,w,w,!1,w,w,w),A.H(t.e,B.k,16,w,w,!1,w,w,w)],v),B.f,B.h,B.d),new A.t(w,10,w,w)],v))}return A.uF(new A.a4(B.aT,A.U(u,B.f,w,B.h,B.d,w),w),B.j,2,B.aQ,w,w,w)}}
 C.wv.prototype={
 aO6(){$.G.R8$.push(new C.bfQ(this))},
-YP(){var w=0,v=A.j(x.X),u,t=this,s
-var $async$YP=A.e(function(d,e){if(d===1)return A.f(e,v)
+YO(){var w=0,v=A.j(x.X),u,t=this,s
+var $async$YO=A.e(function(d,e){if(d===1)return A.f(e,v)
 while(true)switch(w){case 0:t.b=new A.r(B.l,null,null,x.R)
 t.m()
 s=x.P
 w=3
-return A.b(A.aJ(t.a.G_().O(new C.bfR(t),s),new C.bfS(t),s,x.K),$async$YP)
+return A.b(A.aJ(t.a.G_().O(new C.bfR(t),s),new C.bfS(t),s,x.K),$async$YO)
 case 3:u=new C.wu(A.a([],x.t))
 w=1
 break
 case 1:return A.h(u,v)}})
-return A.i($async$YP,v)},
+return A.i($async$YO,v)},
 $iac:1}
 C.ax_.prototype={}
 var z=a.updateTypes(["n6(u)","m(u,n6,m?)","Lj(u,d0<a3>,d0<a3>)","wv(u)","aV(u,wv,m?)","a1(wu)"])
@@ -228,7 +228,7 @@ u.toString
 u=J.c(u,o)
 u=J.q(u,1)?p:new C.bOq(d,e)}else u=p
 t=A.as(d,p,x.w).w
-s=A.l7(B.k,0.5)
+s=A.l6(B.k,0.5)
 r=A.ct(5)
 if(J.aS(e.Q)){q=J.c(e.Q,"productName")
 if(q==null)q=""}else q=n
@@ -266,7 +266,7 @@ $0(){var w=0,v=A.j(x.H),u=this
 var $async$$0=A.e(function(d,e){if(d===1)return A.f(e,v)
 while(true)switch(w){case 0:w=2
 return A.b(new A.ba().aY("Policies"),$async$$0)
-case 2:A.c_(u.a,"/policies",null,B.L,B.V)
+case 2:A.bZ(u.a,"/policies",null,B.L,B.V)
 return A.h(null,v)}})
 return A.i($async$$0,v)},
 $S:3}
@@ -330,7 +330,7 @@ n=l==="order"?t.a.a:""
 m=A.D(["isPanIndia",s,"ReturnPct",r,"returnableValue",q,"ProductName",p,"ProductId",o,"OrderId",n,"InvoiceNoOrderId",l==="invoice"?t.a.a:""],x.N,x.z)
 A.v(A.w(!0,!0))
 m.j(0)
-A.c_(u.b,"/returningProducts",null,B.L,m)}}return A.h(null,v)}})
+A.bZ(u.b,"/returningProducts",null,B.L,m)}}return A.h(null,v)}})
 return A.i($async$$0,v)},
 $S:6}
 C.bOz.prototype={
@@ -339,7 +339,7 @@ v=v!=null
 if(v){w=w.b
 w.toString
 w=J.c(w,"IsBankDetailsPop")
-if(!J.q(w,1))A.c_(this.b,"/sales_return_report",null,B.L,B.V)}},
+if(!J.q(w,1))A.bZ(this.b,"/sales_return_report",null,B.L,B.V)}},
 $S:0}
 C.bOr.prototype={
 $0(){var w=this.a.y,v=w.b
@@ -394,7 +394,7 @@ $1(d){return this.ayG(d)},
 ayG(d){var w=0,v=A.j(x.H),u=this
 var $async$$1=A.e(function(e,f){if(e===1)return A.f(f,v)
 while(true)switch(w){case 0:w=2
-return A.b(u.a.YP(),$async$$1)
+return A.b(u.a.YO(),$async$$1)
 case 2:return A.h(null,v)}})
 return A.i($async$$1,v)},
 $S:8}
@@ -433,4 +433,4 @@ D.y0=new A.oK(1,B.e9,F.qg,null)
 D.axp=new C.XA("Monthly Return Summary",null)
 D.axq=new C.XA("Yearly Return Summary",null)})()};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_299",e:"endPart",h:b})})($__dart_deferred_initializers__,"SXqHDZkx/q3bYO1O+k1UQkyrBB0=");
+a.eventLog.push({p:"main.dart.js_299",e:"endPart",h:b})})($__dart_deferred_initializers__,"5KzRRiWtARzImTWFibFFcA7wSCQ=");

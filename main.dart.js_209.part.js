@@ -96,7 +96,7 @@ B.bzH.prototype={
 $0(){this.a.avl()},
 $S:0}
 B.bzI.prototype={
-$0(){A.c_(this.a,"/user/forgot_password",null,C.L,C.V)},
+$0(){A.bZ(this.a,"/user/forgot_password",null,C.L,C.V)},
 $S:0}
 B.bzJ.prototype={
 $0(){var x=0,w=A.j(y.f),v,u,t
@@ -107,7 +107,7 @@ t=A
 x=3
 return A.b(new A.ba().aY("TermsAndCondition"),$async$$0)
 case 3:x=2
-return A.b(v.XK(u,t.cQ(e,0,null)),$async$$0)
+return A.b(v.XJ(u,t.cQ(e,0,null)),$async$$0)
 case 2:return A.h(null,w)}})
 return A.i($async$$0,w)},
 $S:3}
@@ -123,4 +123,4 @@ w(A.bs,[B.bzD,B.bzH,B.bzI,B.bzJ,B.bzK])})()
 A.bb(b.typeUniverse,JSON.parse('{"y1":{"V":[],"m":[]},"aow":{"Y":["y1"]}}'))
 var y={n:A.B("nq"),e:A.B("x<m>"),h:A.B("d3"),f:A.B("~")};(function constants(){D.X5=new A.P(4278196583)})()};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_209",e:"endPart",h:b})})($__dart_deferred_initializers__,"QpPXSIE0FgpHMvdgPuNKN3euwSY=");
+a.eventLog.push({p:"main.dart.js_209",e:"endPart",h:b})})($__dart_deferred_initializers__,"BujwvYSTHnC2hh6J3MaABf5P2lE=");

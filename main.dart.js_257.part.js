@@ -93,12 +93,12 @@ break
 case 1:return A.h(v,w)
 case 2:return A.f(t,w)}})
 return A.i($async$Vb,w)},
-Zr(d){return this.bt0(d)},
+Zq(d){return this.bt0(d)},
 bt0(d){var x=0,w=A.j(y.Y),v,u=2,t,s=this,r,q,p,o,n
-var $async$Zr=A.e(function(e,f){if(e===1){t=f
+var $async$Zq=A.e(function(e,f){if(e===1){t=f
 x=u}while(true)switch(x){case 0:u=4
 x=7
-return A.b(s.a.aU("voteReview","https://nw-stg-api.retailershakti.com/index_v2/post",C.n.aa(d)),$async$Zr)
+return A.b(s.a.aU("voteReview","https://nw-stg-api.retailershakti.com/index_v2/post",C.n.aa(d)),$async$Zq)
 case 7:r=f
 if(new A.bo().bI(r)==="2000"){p=J.c(J.c(r,"ResponseData"),"data")
 v=p
@@ -120,13 +120,13 @@ x=1
 break
 case 1:return A.h(v,w)
 case 2:return A.f(t,w)}})
-return A.i($async$Zr,w)}}
+return A.i($async$Zq,w)}}
 B.ah1.prototype={
 A(d){var x=y.L
 return A.cb(A.bC(new B.bai(),x),new B.baj(this),x)}}
 B.wi.prototype={
 fp(){this.r.a8(0,new B.ba8(this))},
-a0F(d){var x,w=this,v=w.y.b
+a0E(d){var x,w=this,v=w.y.b
 if(v==null){w.w=!1
 w.y=d
 w.m()}else{x=d.b
@@ -140,7 +140,7 @@ v=v==null?null:v.length}if((v==null?0:v)<15)w.x=!0
 w.m()}}},
 B9(){var x=0,w=A.j(y.H),v=this,u,t,s,r,q,p
 var $async$B9=A.e(function(d,e){if(d===1)return A.f(e,w)
-while(true)switch(x){case 0:v.a0F(new A.r(C.l,null,null,y.Z))
+while(true)switch(x){case 0:v.a0E(new A.r(C.l,null,null,y.Z))
 u=v.f
 t=v.a.a
 if(t==null)t=""
@@ -153,14 +153,14 @@ return A.b(A.b7("bulkbuyer_front",A.D(["pageNumber",""+u,"nPerPage","15","Produc
 case 2:q.aJ(p.Vb(e).O(new B.ba6(v),r),new B.ba7(v),r,y.K)
 return A.h(null,w)}})
 return A.i($async$B9,w)},
-a0C(d){this.z=d
+a0B(d){this.z=d
 this.m()
 if(this.z.b!=null){A.C()
 new A.at().aA("Thanks For Vote.",C.x)}},
 Gp(d,e){return this.bt_(d,e)},
 bt_(d,e){var x=0,w=A.j(y.H),v=this,u,t,s,r,q,p,o,n
 var $async$Gp=A.e(function(f,g){if(f===1)return A.f(g,w)
-while(true)switch(x){case 0:v.a0C(new A.r(C.l,null,null,y.c))
+while(true)switch(x){case 0:v.a0B(new A.r(C.l,null,null,y.c))
 o=A
 x=2
 return A.b(new A.S().aC(),$async$Gp)
@@ -176,7 +176,7 @@ o=A
 n=v.b
 x=3
 return A.b(A.b7("bulkbuyer_front",A.D(["FeedbackUserId",u,"PositiveFeedbackCnt",""+t,"NegativeFeedbackCnt",""+s,"ReviewId",A.k(r)],q,q),"feedback","reviewproduct"),$async$Gp)
-case 3:o.aJ(n.Zr(g).O(new B.ba9(v),p),new B.baa(v),p,y.K)
+case 3:o.aJ(n.Zq(g).O(new B.ba9(v),p),new B.baa(v),p,y.K)
 return A.h(null,w)}})
 return A.i($async$Gp,w)},
 $iac:1}
@@ -306,16 +306,16 @@ x.m();++x.f
 x.B9()}},
 $S:0}
 B.ba6.prototype={
-$1(d){this.a.a0F(new A.r(C.q,d,null,y.Z))},
+$1(d){this.a.a0E(new A.r(C.q,d,null,y.Z))},
 $S:z+2}
 B.ba7.prototype={
-$2(d,e){this.a.a0F(new A.r(C.r,null,J.n(d),y.Z))},
+$2(d,e){this.a.a0E(new A.r(C.r,null,J.n(d),y.Z))},
 $S:1}
 B.ba9.prototype={
-$1(d){this.a.a0C(new A.r(C.q,d,null,y.c))},
+$1(d){this.a.a0B(new A.r(C.q,d,null,y.c))},
 $S:103}
 B.baa.prototype={
-$2(d,e){this.a.a0C(new A.r(C.r,null,J.n(d),y.c))},
+$2(d,e){this.a.a0B(new A.r(C.r,null,J.n(d),y.c))},
 $S:1};(function inheritance(){var x=a.mixin,w=a.inheritMany,v=a.inherit
 w(A.K,[B.F8,B.ai3,B.bgc,B.bgf,B.avE])
 w(A.bm,[B.bgd,B.baj,B.bai,B.bab,B.ba6,B.ba9])
@@ -340,4 +340,4 @@ D.a5b=new A.cY(59034,"MaterialIcons",null,!1)
 D.Xw=new A.P(4280060175)
 D.a5Y=new A.d6(D.a5b,15,D.Xw,null,null)})()};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_257",e:"endPart",h:b})})($__dart_deferred_initializers__,"+jM8xRb54OB1MGQegqy86KAQ8ro=");
+a.eventLog.push({p:"main.dart.js_257",e:"endPart",h:b})})($__dart_deferred_initializers__,"OUmbE+/SyzlPRpcIwF032m+rPek=");

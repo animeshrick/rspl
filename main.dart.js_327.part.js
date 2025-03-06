@@ -205,7 +205,7 @@ s=y.N
 x=2
 return A.b(new E.zS().Hv(C.n.iI(A.D(["id",p,"name",u,"url",t],s,s),null)),$async$$0)
 case 2:r=q?null:r.w
-A.c_(v.b,"/promoProduct",null,A.D(["url",r==null?"":r],s,s),C.V)
+A.bZ(v.b,"/promoProduct",null,A.D(["url",r==null?"":r],s,s),C.V)
 return A.h(null,w)}})
 return A.i($async$$0,w)},
 $S:3}
@@ -245,4 +245,4 @@ A.bb(b.typeUniverse,JSON.parse('{"EK":{"N":[],"m":[]},"wf":{"ak":[],"ac":[]}}'))
 var y=(function rtii(){var x=A.B
 return{f:x("r<we>"),t:x("x<KP>"),p:x("x<m>"),w:x("d3"),P:x("a1"),K:x("K"),a:x("we"),O:x("wf"),N:x("o"),z:x("@"),H:x("~")}})();(function constants(){D.a11=new A.nu("Promotion",null,null,null)})()};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_327",e:"endPart",h:b})})($__dart_deferred_initializers__,"e5qa33Gv7xdLRlyUoqr58rHTiow=");
+a.eventLog.push({p:"main.dart.js_327",e:"endPart",h:b})})($__dart_deferred_initializers__,"mVkW1i/tE96jswCvaZqUE26mRe4=");

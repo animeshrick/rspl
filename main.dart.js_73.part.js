@@ -73,7 +73,7 @@ case 2:u=$.af().a.c
 u===$&&A.d()
 u=$.G.F$.z.h(0,u.c.b)
 u.toString
-A.c_(u,"/login",null,C.L,C.V)
+A.bZ(u,"/login",null,C.L,C.V)
 x=3
 break
 case 4:x=5
@@ -121,7 +121,7 @@ if(C.b.t(x,d)){C.b.L(x,d)
 C.b.L(w.e,J.bp(w.w,d))}else{x.push(d)
 C.b.J(w.e,J.bp(w.w,d))}if(w.e.length===J.am(w.w))w.c=!w.c
 w.m()},
-a0B(d){var x,w=this,v="productList"
+a0A(d){var x,w=this,v="productList"
 w.y=d
 x=d.b
 if(x!=null)x=J.kx(x,v)===!0
@@ -136,7 +136,7 @@ var $async$Ea=A.e(function(d,e){if(d===1)return A.f(e,w)
 while(true)switch(x){case 0:x=2
 return A.b(new A.bU().e3(),$async$Ea)
 case 2:t=e
-v.a0B(new A.r(C.l,null,null,y.d))
+v.a0A(new A.r(C.l,null,null,y.d))
 u=y.P
 x=3
 return A.b(A.aJ(v.r.Lv(A.D(["UserId",t==null?null:t.c],y.N,y.T)).O(new B.b4p(v),u),new B.b4q(v),u,y.K),$async$Ea)
@@ -177,8 +177,8 @@ x=3
 return A.b(A.aJ(v.r.FJ(A.D(["UserId",s,"UpdatedBy",t,"product_id",new A.l().fJ(d),"qty",e],y.N,y.T)).O(new B.b4r(v,d),r),new B.b4s(v,d),r,y.K),$async$FK)
 case 3:return A.h(null,w)}})
 return A.i($async$FK,w)},
-XM(){var x=0,w=A.j(y.H),v=this,u
-var $async$XM=A.e(function(d,e){if(d===1)return A.f(e,w)
+XL(){var x=0,w=A.j(y.H),v=this,u
+var $async$XL=A.e(function(d,e){if(d===1)return A.f(e,w)
 while(true)switch(x){case 0:x=v.e.length===0?2:4
 break
 case 2:new A.at().aA("To place order you need to add and select products in ordersheet",C.D)
@@ -188,23 +188,23 @@ case 4:A.v(A.w(!0,!0))
 v.x=!0
 v.m()
 x=5
-return A.b($.bx().nE(v.e),$async$XM)
+return A.b($.bx().nE(v.e),$async$XL)
 case 5:u=$.af().a.c
 u===$&&A.d()
 u=$.G.F$.z.h(0,u.c.b)
 u.toString
-A.c_(u,"/retailCart",null,C.L,C.V)
+A.bZ(u,"/retailCart",null,C.L,C.V)
 v.x=!1
 v.m()
 case 3:return A.h(null,w)}})
-return A.i($async$XM,w)}}
+return A.i($async$XL,w)}}
 var z=a.updateTypes(["t7(u)","hH(u,t7,m?)"])
 B.bJZ.prototype={
 $1(d){return B.cs3()},
 $S:z+0}
 B.bJY.prototype={
 $3(d,e,f){var x,w,v,u,t=null
-if(e.y.a!==C.l){x=A.l7(A.A("#1A74BB"),1)
+if(e.y.a!==C.l){x=A.l6(A.A("#1A74BB"),1)
 w=y.p
 x=A.c5(t,A.ag(t,A.Z(A.a([new A.t(14,t,t,t),F.xf,new A.t(6,t,t,t),A.H("Search Product/Brand in the sheet",A.A("#999999"),12,t,t,!1,t,t,t)],w),C.f,C.h,C.d),C.m,t,t,new A.bj(C.j,t,x,L.aY,t,t,t,C.G),t,40,t,H.f0,F.xO,t,t,t),C.z,!1,t,t,t,t,t,t,t,t,t,t,t,t,t,t,t,new B.bJT(d,e),t,t,t,t,t,t)
 v=A.a([A.aq(102,113,233,233),A.aq(102,231,195,243)],y.O)
@@ -244,7 +244,7 @@ B.bJX.prototype={
 $0(){var x=0,w=A.j(y.H),v=this
 var $async$$0=A.e(function(d,e){if(d===1)return A.f(e,w)
 while(true)switch(x){case 0:x=2
-return A.b(v.a.XM(),$async$$0)
+return A.b(v.a.XL(),$async$$0)
 case 2:return A.h(null,w)}})
 return A.i($async$$0,w)},
 $S:3}
@@ -270,11 +270,11 @@ B.b4t.prototype={
 $1(d){return d.bF!=="Y"},
 $S:48}
 B.b4p.prototype={
-$1(d){this.a.a0B(new A.r(C.q,d,null,y.d))},
+$1(d){this.a.a0A(new A.r(C.q,d,null,y.d))},
 $S:168}
 B.b4q.prototype={
 $2(d,e){var x=J.aK(d)
-this.a.a0B(new A.r(C.r,null,x.j(d),y.d))
+this.a.a0A(new A.r(C.r,null,x.j(d),y.d))
 A.v(A.w(!0,!0))
 x.j(d)},
 $S:1}
@@ -305,4 +305,4 @@ return{d:x("r<av<o,@>?>"),O:x("x<P>"),V:x("x<b0>"),n:x("x<nb>"),p:x("x<m>"),t:x(
 D.a30=new A.az(15,0,15,0)
 D.lN=new A.az(16,5,16,5)})()};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_73",e:"endPart",h:b})})($__dart_deferred_initializers__,"oyic/h9CBrU/Lfg6NNaCH8YWIdk=");
+a.eventLog.push({p:"main.dart.js_73",e:"endPart",h:b})})($__dart_deferred_initializers__,"NTE7b2DW3CeQNim6Le6TZrseKMA=");
