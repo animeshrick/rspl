@@ -36,7 +36,7 @@ n.ch=o==null?0:o
 o=new A.l().B(p.h(q,"IsOutOfStock"))
 n.bF=o==null?"":o
 n.w=p.h(q,"DosageForm")
-n.jy=p.h(q,"Brand")
+n.jz=p.h(q,"Brand")
 n.r=p.h(q,"MfgGroup")
 o=p.h(q,"MRP")
 if(o!=null){m=J.aK(o)
@@ -164,4 +164,4 @@ var z=a.updateTypes([]);(function inheritance(){var x=a.inheritMany
 x(A.K,[B.b52,B.ls,B.ah9])})()
 var y={d:A.B("x<aL>"),s:A.B("x<iD>"),x:A.B("x<iX>"),w:A.B("x<i_>"),z:A.B("x<b0>"),q:A.B("I<b0>"),B:A.B("ls")}};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_271",e:"endPart",h:b})})($__dart_deferred_initializers__,"jUjtYArmJJolVNXhWERWoWwy6LI=");
+a.eventLog.push({p:"main.dart.js_271",e:"endPart",h:b})})($__dart_deferred_initializers__,"14xoHFcFR7gRKEQ3pR4HjOmhSFU=");

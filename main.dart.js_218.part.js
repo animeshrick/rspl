@@ -2,7 +2,7 @@
 a[b][c]=a[b][c]||[]
 a[b][c].push({p:"main.dart.js_218",e:"beginPart"})})(self,"$__dart_deferred_initializers__","eventLog")
 $__dart_deferred_initializers__.current=function(a,b,c,$){var A,C,D,B={
-cpy(){return new B.yJ(null)},
+cpz(){return new B.yJ(null)},
 yJ:function yJ(d){this.a=d},
 arM:function arM(d,e){var _=this
 _.d=d
@@ -24,7 +24,7 @@ aq(){var x="Forgot Password"
 new A.cM().es(x)
 new A.dJ().ef(x,x)
 this.aI()},
-A(d){var x=D.c4V("forgot_password"),w=y.f
+A(d){var x=D.c4W("forgot_password"),w=y.f
 return A.oz(A.bC(new B.bFc(this),w),x,w)}}
 var z=a.updateTypes(["cZ(u,nq,m?)"])
 B.bFc.prototype={
@@ -47,4 +47,4 @@ x(B.bFb,A.bs)})()
 A.bb(b.typeUniverse,JSON.parse('{"yJ":{"V":[],"m":[]},"arM":{"Y":["yJ"]}}'))
 var y={f:A.B("nq"),e:A.B("x<m>")}};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_218",e:"endPart",h:b})})($__dart_deferred_initializers__,"3AbDCHBclqI4oU9PrUvABym4PtY=");
+a.eventLog.push({p:"main.dart.js_218",e:"endPart",h:b})})($__dart_deferred_initializers__,"+OgliTQL3m2T9Qiyf2Vuq1AW4+U=");

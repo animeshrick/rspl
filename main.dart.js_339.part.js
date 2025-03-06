@@ -2,7 +2,7 @@
 a[b][c]=a[b][c]||[]
 a[b][c].push({p:"main.dart.js_339",e:"beginPart"})})(self,"$__dart_deferred_initializers__","eventLog")
 $__dart_deferred_initializers__.current=function(a,b,c,$){var J,A,C,D,B={
-c7h(){var x="Generic Products",w=$.aw()
+c7i(){var x="Generic Products",w=$.aw()
 w=new B.m2(new A.bl(C.F,w),new D.aaI(new A.bA(new A.by(A.v(A.w(!0,!0))))),new A.r(C.a2,null,null,y.E),w)
 $.bx().a8(0,w.gwX())
 new A.cM().es(x)
@@ -129,4 +129,4 @@ x(B.aR3,A.c4)})()
 A.bb(b.typeUniverse,JSON.parse('{"m2":{"ak":[],"ac":[]}}'))
 var y={E:A.B("r<I<b0>>"),i:A.B("a5<@>"),F:A.B("a1"),D:A.B("K"),b:A.B("@"),v:A.B("~")}};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_339",e:"endPart",h:b})})($__dart_deferred_initializers__,"Qc21NlVn5LVW1KqmsjVl88IM3c8=");
+a.eventLog.push({p:"main.dart.js_339",e:"endPart",h:b})})($__dart_deferred_initializers__,"QC9QgTyJBSn0x6jRDRGyd2Et51M=");

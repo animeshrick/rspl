@@ -37,7 +37,7 @@ x(B.at5,A.Y)
 x(B.bHL,A.bs)})()
 A.bb(b.typeUniverse,JSON.parse('{"Th":{"V":[],"m":[]},"at5":{"Y":["Th"]}}'))
 var y={e:A.B("x<m>"),g:A.B("h2"),f:A.B("~")};(function constants(){D.Tc=new A.bj(C.j,null,null,null,null,null,null,C.G)
-D.a1i=new A.fu("assets/logo/shopping_bag.svg",null,null,null,null,null)
+D.a1i=new A.fv("assets/logo/shopping_bag.svg",null,null,null,null,null)
 D.cl=new B.Th(null)})()};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_121",e:"endPart",h:b})})($__dart_deferred_initializers__,"iPUshJXOm04twbhZiZVq4ZPRghA=");
+a.eventLog.push({p:"main.dart.js_121",e:"endPart",h:b})})($__dart_deferred_initializers__,"LH33pIChQjALkZ6PKOKrSe20a0k=");

@@ -5,7 +5,7 @@ $__dart_deferred_initializers__.current=function(a,b,c,$){var J,A,C,E,F,G,B={Sa:
 this.d=e
 this.a=f},aQZ:function aQZ(d,e){this.a=d
 this.b=e},
-c7i(){return new B.yK(null)},
+c7j(){return new B.yK(null)},
 yK:function yK(d){this.a=d},
 arQ:function arQ(d){this.a=null
 this.b=d
@@ -27,7 +27,7 @@ aaJ:function aaJ(d,e){this.c=d
 this.a=e},
 aR5:function aR5(d,e){this.a=d
 this.b=e},
-cpJ(){var x=y.V
+cpK(){var x=y.V
 x=new B.vs("lbl_composition_title","hint_search_generic_medicine",A.a([],x),A.a([],x),A.a([],x),A.a([],x),A.C().ud[1].toUpperCase(),new H.aaI(new A.bA(new A.by(A.v(A.w(!0,!0))))),new A.r(C.a2,null,null,y.d),$.aw())
 x.aNd()
 return x},
@@ -95,7 +95,7 @@ r=r.R(C.o,18,12)
 u=r}x[v]=A.bL(!1,q,!0,new A.mI(31,q,C.cW,s,new A.t(q,20,new A.dw(C.J,q,q,u,q),q),C.bW,q,q,q,q,q,q,q),q,!0,q,q,q,q,q,q,q,q,q,q,new B.aRT(this,v),q,q,q,q,q,q,q)}return A.bg(q,q,q,q,q,A.Z(A.a([A.bg(q,p,o,q,q,F.hM(x,q,C.K,q,q,q,C.a0,!0),q,q,31,q,q,q)],y.p),C.f,C.h,C.d),q,q,31,q,I.hY,q)}}
 B.aaJ.prototype={
 A(d){var x=null
-return new A.a4(C.T,A.bL(!1,x,!0,A.bg(x,A.A("#1A74BB"),C.aW,x,x,A.Z(A.a([A.H(this.c.c,C.x,14,x,x,!1,x,x,x),A.dY(C.jJ,A.A("#7F7F7F"),x,20)],y.p),C.f,C.E,C.d),x,x,40,x,C.hZ,x),x,!0,x,x,x,x,x,x,x,x,x,x,new B.aR5(this,d),x,x,x,x,x,x,x),x)}}
+return new A.a4(C.T,A.bL(!1,x,!0,A.bg(x,A.A("#1A74BB"),C.aW,x,x,A.Z(A.a([A.H(this.c.c,C.x,14,x,x,!1,x,x,x),A.dQ(C.jJ,A.A("#7F7F7F"),x,20)],y.p),C.f,C.E,C.d),x,x,40,x,C.hZ,x),x,!0,x,x,x,x,x,x,x,x,x,x,new B.aR5(this,d),x,x,x,x,x,x,x),x)}}
 B.vs.prototype={
 aNd(){var x="Generic Medicine"
 new A.cM().es(x)
@@ -155,7 +155,7 @@ w=y.N
 A.bZ(this.b,"/generic_products",null,C.L,A.D(["saltId",x,"title",v,"type",""+u],w,w))},
 $S:0}
 B.bFD.prototype={
-$1(d){return B.cpJ()},
+$1(d){return B.cpK()},
 $S:z+0}
 B.bFC.prototype={
 $3(d,e,f){var x,w,v=null,u=A.ai(d)
@@ -187,7 +187,7 @@ x=A.aj(A.bf(x.toUpperCase(),"#",u),A.A($.cd),v,v,v,C.a1).R(C.a4,18,12)}else{x=A.
 x=A.aj(A.bf(x.toUpperCase(),"#",u),A.A($.cd),v,v,v,C.a1).R(C.o,18,12)}w=y.p
 r=A.a([A.bg(v,q,v,v,v,A.aD(new A.a4(C.aQ,x,v),v,v),r,v,55,v,C.B,65)],w)
 if(s.w===A.C().ud[e].toUpperCase())C.b.v(r,A.a([A.bg(v,v,E.vn,v,v,v,A.A("#0090DD"),v,55,v,v,2)],w))
-return A.c5(v,A.Z(r,C.f,C.h,C.d),C.z,!1,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,new B.aDV(t,e),v,v,v,v,v,v)},
+return A.c6(v,A.Z(r,C.f,C.h,C.d),C.z,!1,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,new B.aDV(t,e),v,v,v,v,v,v)},
 $S:40}
 B.aDV.prototype={
 $0(){this.a.c.aF2(A.C().ud[this.b].toUpperCase())},
@@ -234,4 +234,4 @@ A.bb(b.typeUniverse,JSON.parse('{"Sa":{"N":[],"m":[]},"yK":{"V":[],"m":[]},"arQ"
 var y=(function rtii(){var x=A.B
 return{d:x("r<D9>"),w:x("vs"),V:x("x<b0>"),p:x("x<m>"),P:x("a1"),K:x("K"),T:x("b0"),N:x("o"),l:x("m"),z:x("@"),H:x("~")}})();(function constants(){D.a14=new A.nu("Generic Medicine",null,null,null)})()};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_266",e:"endPart",h:b})})($__dart_deferred_initializers__,"szIBw/EPcW+POzBBBmhrnHSw2+U=");
+a.eventLog.push({p:"main.dart.js_266",e:"endPart",h:b})})($__dart_deferred_initializers__,"xKRF4Ek8dzQvh/S/V8TJ6Z1WMyI=");
